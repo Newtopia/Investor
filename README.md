@@ -1,4 +1,15 @@
 # Investor
 Social Network
+
 import java.util.Scanner;
-fgdgd
+
+
+public investor;
+
+  public static void main(String[]arg)
+    { 
+    System.out.println("pass me the hookah");
+    
+    }
+    
+  
