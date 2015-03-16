@@ -15,7 +15,7 @@ public investor;
     
     public static void profile(int x)
     {
-    System.out.println("Create Username: "
+    System.out.println("Create Username: ");
     
     System.out.println("Profile");
     Scanner input = new Scanner(System.in);
