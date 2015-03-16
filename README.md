@@ -8,7 +8,7 @@ public investor;
 
   public static void main(String[]arg)
     { 
-    System.out.println("pass me the hookah");
+    System.out.println("Welcome to investor");
     
     }
     
